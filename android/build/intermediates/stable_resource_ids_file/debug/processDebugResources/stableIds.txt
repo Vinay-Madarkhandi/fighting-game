@@ -1,0 +1,3 @@
+com.vinay.minimilitia:style/GdxTheme = 0x7f030000
+com.vinay.minimilitia:string/app_name = 0x7f020000
+com.vinay.minimilitia:mipmap/ic_launcher = 0x7f010000

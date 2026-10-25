@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:7:5-86
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:7:22-83
+application
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:9:5-26:19
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:9:5-26:19
+	android:extractNativeLibs
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:12:9-37
+	android:icon
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:13:9-67
+activity#com.vinay.minimilitia.AndroidLauncher
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:20:13-56
+	android:label
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:19:13-41
+	android:exported
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:17:13-107
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:16:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:11:9-32

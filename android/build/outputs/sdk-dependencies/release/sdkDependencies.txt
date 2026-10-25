@@ -1,0 +1,1102 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib"
+    version: "1.9.22"
+  }
+  digests {
+    sha256: "j\276\024l\'\206A8\270t\314\314\376_SN>\271#\311\232\033{]EIN\345iO>\n"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains"
+    artifactId: "annotations"
+    version: "23.0.0"
+  }
+  digests {
+    sha256: "{\017\031r@\202\313\374\274f\345\253\352+\233\311,\360\212\036\241\036\031\0313\355C\200\036\263\315\005"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-common"
+    version: "1.9.22"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-jdk7"
+    version: "1.8.22"
+  }
+  digests {
+    sha256: "\005_\\\262B\207\372\020a\000\231Z{G\253\222\022k\201\3502\350u\365\372,\360\275Ui=\v"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-jdk8"
+    version: "1.8.22"
+  }
+  digests {
+    sha256: "A\230\260\352\360\220\244\362[o~ZYX\037C\024\272\214\237l\321\321>\351\323H\346^\330\367\a"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx"
+    version: "1.12.1"
+  }
+  digests {
+    sha256: "\2152\t\351H!\037\336\234\332\314+\001\372\316\323#\345H\252R\357x\345\307`\204Z\210tip"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-jnigen-loader"
+    version: "2.3.1"
+  }
+  digests {
+    sha256: "d\220\335\242%\246\034v\002\302{\276\304\344\201\023\177\365\225\370\316\v-\333\244\024\360\303@j\356`"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-box2d"
+    version: "1.12.1"
+  }
+  digests {
+    sha256: "s\306\204\003\374Z\030\211\325F\230wlK\021B\335\341\325\233\217\"\217\373\366\276{\302\257Wc\347"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-freetype"
+    version: "1.12.1"
+  }
+  digests {
+    sha256: "\255\270\354\220\006\273a\332\326\322\227l\225\241\336\030\336^\032e\024-\030\245\200}\016RL\213\361e"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-core"
+    version: "1.8.0"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-core-jvm"
+    version: "1.8.0"
+  }
+  digests {
+    sha256: "\230`\220j\0317I\v\365\363\260m/\016\020\357E\036e\271[&\237\"\332\366\212=\037Pe\305"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-bom"
+    version: "1.8.0"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-android"
+    version: "1.8.0"
+  }
+  digests {
+    sha256: "\252\321\305M>L*\005X\242F\351\341\026\020\252\022\275puuk|9\336\241^\370O\237\377H"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-jdk8"
+    version: "1.8.0"
+  }
+  digests {
+    sha256: "\330A\237\333<\272\252\354@~b\253\024\276VCm\036v\265\2773$LWeV\037\301?\320k"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-slf4j"
+    version: "1.8.0"
+  }
+  digests {
+    sha256: "\267\324\353\207\253\265\310<(\"\334\245\210\215\303^-\327\340\222\370\240\026\212\277\f6\203\001i\216\033"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.slf4j"
+    artifactId: "slf4j-api"
+    version: "1.7.36"
+  }
+  digests {
+    sha256: "\323\357W^>Iyg\215\300\033\361\334\316Q\002\024\223\264\321\037\267\361\276\212\331\202\207|\026\241\300"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-json"
+    version: "1.6.3"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-json-jvm"
+    version: "1.6.3"
+  }
+  digests {
+    sha256: "\323#Ay\274\377\030\206\325=g\301\036\312G\367\363\317{c\303I\321ie\366\333Q\267\363\335\232"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-bom"
+    version: "1.6.3"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-core"
+    version: "1.6.3"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-core-jvm"
+    version: "1.6.3"
+  }
+  digests {
+    sha256: ")\310!\250\324\342\\\277\344\362\316\226\315\324Roa\370\364\346\232\023_\226\022\243J\201\331;e\361"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-core"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-core-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "x\310\305\235\031\345\277\035\273H\3428\262\373,\230\353g\330\304\262\207\336\327k\307\360\230\221a\244|"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "v\246\035\357\'\251\205\035|b\335x!\342\237\371\257\242\246=H4\025\275\026C#\336~\343I\341"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-utils"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-utils-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\230\177\353\332EC\357\373\035\016\rY\005\262\356\267\273w|\237C.9\321\"AS\305\306\3625\361"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-io"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-io-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "I\353\327\241e.:\312\237\004b\320T\257t\235\337\255\217l\365\253r\325\212,7\234\264\360\025\001"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-events"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-events-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "@l9\365M\345\035\224>\360\264\334.\330VN\035\235\002\372\001]\342\372\005b8\000\302\366\034\203"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websocket-serialization"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websocket-serialization-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\214\020\226\006e\260J>\273\033\3677\265\214\377mey\362\361\312)KPt\363\265n\347\260\237w"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "4\300\271\212\210\210c\262\225Y\225\201\325\244\322\201\026\236/\002\036=\025\374\tP$\02386\342\257"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websockets"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websockets-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\256Y\342 \227\365\2747\353\005j_\340\326\253\031R\242Th\325~\344\215\b\251S\260I\2548\312"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-cio"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-cio-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "J\341G\214\225\2538\t\343\254\311.\300\023q\342\312\226)I\356\024\331\265V\366\301\232Z\376E\332"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http-cio"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http-cio-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\256\001t\244\310\024\276\332\327\201X\021S\v\350\366\256\370\360/C\241\274\303@WI\347\216L\322q"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-network"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-network-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "UEO\2311s\221\274V\336^%\206\222\226\303\202\223\n\n\352\246\211_z\214\335\t\325t/\v"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-network-tls"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-network-tls-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "-\226Kg\333\260\222\274\303u0G\326C%`\345\213\nh\206\342\2609\3561\270s|\277\025\275"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-websockets"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-websockets-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\220\005V\251I\311\315\002\256\374\305\f\244\303\315\321,].\2235c3\235\305\'y\243\3747\372+"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-core"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-core-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "{\331\250v\302\fl\224\245\250\344-j\370+\005\223\372\aF\036@\362\004\220\240\036`\370(\250\356"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.typesafe"
+    artifactId: "config"
+    version: "1.4.3"
+  }
+  digests {
+    sha256: "\212\332L\030\\\347$\026q-c\340\265\257\334_\000\234\f\337@^_&\357\354\337\025j\245\337\266"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-reflect"
+    version: "1.8.22"
+  }
+  digests {
+    sha256: "eX%\372e\021\"\017\355\f\256Z\255M\376\242\253\371\217\321\017\n\347~\270\332\366\253\374\320\360\'"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.fusesource.jansi"
+    artifactId: "jansi"
+    version: "2.4.1"
+  }
+  digests {
+    sha256: ".^wZ\235\305\217\372k\275j\246\360\231\326/\213b\334\336\264\303\303\273\276\\\3620\033\302\334\301"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-cio"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-cio-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\337z[\366c}\272\000\206XGL\363\210\274H\305Fx \364\305D\364\324\004~\300#\035vS"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-host-common"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-host-common-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "fx\327\005n\r\034\201\256z6#WU\247B\'\335\300\235\277e\207\370n\310\211\264\344\204\315*"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-websockets"
+    version: "2.3.9"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-server-websockets-jvm"
+    version: "2.3.9"
+  }
+  digests {
+    sha256: "\333D\002\207\307LX}Et\252\270p3v5\341\341_<2\241u\277\301a1\271\266\241\357\t"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-backend-android"
+    version: "1.12.1"
+  }
+  digests {
+    sha256: "\222\220\016p\003\333\230\323\340\000r\b\366\320oEh\276\352\212{\227[f\332E]}Q\342\005V"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+  library_dep_index: 2
+  library_dep_index: 3
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 0
+  library_dep_index: 3
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 6
+}
+library_dependencies {
+  library_index: 7
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 8
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 9
+  library_dep_index: 10
+}
+library_dependencies {
+  library_index: 10
+  library_dep_index: 1
+  library_dep_index: 11
+}
+library_dependencies {
+  library_index: 11
+  library_dep_index: 12
+  library_dep_index: 10
+  library_dep_index: 9
+  library_dep_index: 13
+  library_dep_index: 14
+}
+library_dependencies {
+  library_index: 12
+  library_dep_index: 9
+  library_dep_index: 11
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 13
+  library_dep_index: 9
+  library_dep_index: 11
+}
+library_dependencies {
+  library_index: 14
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 11
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 16
+  library_dep_index: 17
+}
+library_dependencies {
+  library_index: 17
+  library_dep_index: 0
+  library_dep_index: 18
+  library_dep_index: 2
+  library_dep_index: 19
+}
+library_dependencies {
+  library_index: 18
+  library_dep_index: 19
+  library_dep_index: 17
+  library_dep_index: 16
+  library_dep_index: 20
+}
+library_dependencies {
+  library_index: 19
+  library_dep_index: 20
+}
+library_dependencies {
+  library_index: 20
+  library_dep_index: 0
+  library_dep_index: 18
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 21
+  library_dep_index: 22
+}
+library_dependencies {
+  library_index: 22
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 29
+  library_dep_index: 31
+  library_dep_index: 2
+  library_dep_index: 14
+}
+library_dependencies {
+  library_index: 23
+  library_dep_index: 24
+}
+library_dependencies {
+  library_index: 24
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 25
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 25
+  library_dep_index: 26
+}
+library_dependencies {
+  library_index: 26
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 27
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 27
+  library_dep_index: 28
+}
+library_dependencies {
+  library_index: 28
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 29
+  library_dep_index: 30
+}
+library_dependencies {
+  library_index: 30
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 25
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 31
+  library_dep_index: 32
+}
+library_dependencies {
+  library_index: 32
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 33
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 33
+  library_dep_index: 34
+}
+library_dependencies {
+  library_index: 34
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 35
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 35
+  library_dep_index: 36
+}
+library_dependencies {
+  library_index: 36
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 37
+  library_dep_index: 38
+}
+library_dependencies {
+  library_index: 38
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 21
+  library_dep_index: 39
+  library_dep_index: 35
+  library_dep_index: 43
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 39
+  library_dep_index: 40
+}
+library_dependencies {
+  library_index: 40
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 41
+  library_dep_index: 9
+  library_dep_index: 23
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 41
+  library_dep_index: 42
+}
+library_dependencies {
+  library_index: 42
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 2
+  library_dep_index: 25
+}
+library_dependencies {
+  library_index: 43
+  library_dep_index: 44
+}
+library_dependencies {
+  library_index: 44
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 2
+  library_dep_index: 23
+  library_dep_index: 41
+  library_dep_index: 25
+}
+library_dependencies {
+  library_index: 45
+  library_dep_index: 46
+}
+library_dependencies {
+  library_index: 46
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 21
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 47
+  library_dep_index: 48
+}
+library_dependencies {
+  library_index: 48
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 49
+  library_dep_index: 9
+  library_dep_index: 2
+  library_dep_index: 25
+  library_dep_index: 23
+  library_dep_index: 33
+  library_dep_index: 29
+  library_dep_index: 50
+  library_dep_index: 51
+}
+library_dependencies {
+  library_index: 50
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 52
+  library_dep_index: 53
+}
+library_dependencies {
+  library_index: 53
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 2
+  library_dep_index: 54
+  library_dep_index: 39
+  library_dep_index: 35
+  library_dep_index: 41
+}
+library_dependencies {
+  library_index: 54
+  library_dep_index: 55
+}
+library_dependencies {
+  library_index: 55
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 2
+  library_dep_index: 47
+  library_dep_index: 39
+  library_dep_index: 35
+}
+library_dependencies {
+  library_index: 56
+  library_dep_index: 57
+}
+library_dependencies {
+  library_index: 57
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 9
+  library_dep_index: 47
+  library_dep_index: 2
+  library_dep_index: 35
+  library_dep_index: 31
+}
+library_dependencies {
+  library_index: 58
+  library_dep_index: 5
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 58
+  dependency_index: 12
+  dependency_index: 5
+  dependency_index: 7
+  dependency_index: 8
+  dependency_index: 9
+  dependency_index: 16
+  dependency_index: 21
+  dependency_index: 37
+  dependency_index: 45
+  dependency_index: 47
+  dependency_index: 52
+  dependency_index: 56
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://oss.sonatype.org/content/repositories/snapshots/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://oss.sonatype.org/content/repositories/releases/"
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vinay.minimilitia.GameplayLogicTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-25T08:41:21" hostname="archlinux" time="0.171">
+  <properties/>
+  <testcase name="testRocketLauncherProperties" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.028"/>
+  <testcase name="testWeaponFiringAndReloading" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.001"/>
+  <testcase name="testPhysicsConstantsIntegrity" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.0"/>
+  <testcase name="testAllWeaponsRegisteredAndBalanced" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.005"/>
+  <testcase name="testNetworkPlayerNetStateSerialization" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.037"/>
+  <testcase name="testGameMessageSerialization" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.097"/>
+  <testcase name="testShotgunPelletCount" classname="com.vinay.minimilitia.GameplayLogicTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

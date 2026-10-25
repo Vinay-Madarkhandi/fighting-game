@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/vinay/Desktop/fighting-game/android"
+    name=":android"
+    type="APP"
+    maven="MiniMilitia:android:"
+    agpVersion="8.3.2"
+    buildFolder="build"
+    bootClassPath="/home/vinay/Android/Sdk/platforms/android-34/android.jar:/home/vinay/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="21"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

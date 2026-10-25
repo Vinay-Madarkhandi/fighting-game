@@ -1,0 +1,7 @@
+#Sun Oct 25 14:14:55 IST 2026
+base.0=/home/vinay/Desktop/fighting-game/android/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/home/vinay/Desktop/fighting-game/android/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

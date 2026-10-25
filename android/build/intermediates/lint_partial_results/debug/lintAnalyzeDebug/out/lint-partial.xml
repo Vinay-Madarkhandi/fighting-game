@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.3.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.vinay.minimilitia.AndroidLauncher"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.string.app_name"
+            file="${:android*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="2"
+            column="13"
+            startOffset="24"
+            endLine="2"
+            endColumn="28"
+            endOffset="39"/>
+        <location id="R.style.GdxTheme"
+            file="${:android*debug*MAIN*sourceProvider*0*resDir*0}/values/styles.xml"
+            line="2"
+            column="12"
+            startOffset="23"
+            endLine="2"
+            endColumn="27"
+            endOffset="38"/>
+        <entry
+            name="model"
+            string="mipmap[ic_launcher(U)],string[app_name(D)],style[GdxTheme(D)];;;;"/>
+    </map>
+
+</incidents>

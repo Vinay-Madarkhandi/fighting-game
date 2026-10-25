@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vinay.minimilitia"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:4:5-67
+11-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:5:5-79
+12-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:6:5-76
+13-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:6:22-73
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+14-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:7:5-86
+14-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:7:22-83
+15
+16    <uses-feature
+16-->[com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
+17        android:glEsVersion="0x00020000"
+17-->[com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:10:9-41
+18        android:required="true" />
+18-->[com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/vinay/.gradle/caches/transforms-4/b872e3c059d1a702e68dab510b0ab849/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:11:9-32
+19
+20    <application
+20-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:9:5-26:19
+21        android:allowBackup="true"
+21-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:10:9-35
+22        android:extractNativeLibs="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:11:9-43
+24        android:label="Mini Militia"
+24-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:12:9-37
+25        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+25-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:13:9-67
+26        <activity
+26-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:15:9-25:20
+27            android:name="com.vinay.minimilitia.AndroidLauncher"
+27-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:16:13-65
+28            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+28-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:17:13-107
+29            android:exported="true"
+29-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:18:13-36
+30            android:label="Mini Militia"
+30-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:19:13-41
+31            android:screenOrientation="sensorLandscape" >
+31-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:20:13-56
+32            <intent-filter>
+32-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:21:13-24:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:22:17-69
+33-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:23:17-77
+35-->/home/vinay/Desktop/fighting-game/android/src/main/AndroidManifest.xml:23:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>

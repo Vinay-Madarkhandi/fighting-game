@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vinay.minimilitia.android-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/vinay/Desktop/fighting-game/android/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                },
+                {
+                    "source": "/home/vinay/Desktop/fighting-game/android/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "171"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "260"
+                    }
+                }
+            ]
+        }
+    ]
+}

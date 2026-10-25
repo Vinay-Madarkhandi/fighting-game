@@ -1,0 +1,7 @@
+com.vinay.minimilitia.android-pngs-0 /home/vinay/Desktop/fighting-game/android/build/generated/res/pngs/debug
+com.vinay.minimilitia.android-resValues-1 /home/vinay/Desktop/fighting-game/android/build/generated/res/resValues/debug
+com.vinay.minimilitia.android-packageDebugResources-2 /home/vinay/Desktop/fighting-game/android/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.vinay.minimilitia.android-packageDebugResources-3 /home/vinay/Desktop/fighting-game/android/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.vinay.minimilitia.android-debug-4 /home/vinay/Desktop/fighting-game/android/build/intermediates/merged_res/debug/mergeDebugResources
+com.vinay.minimilitia.android-debug-5 /home/vinay/Desktop/fighting-game/android/src/debug/res
+com.vinay.minimilitia.android-main-6 /home/vinay/Desktop/fighting-game/android/src/main/res
