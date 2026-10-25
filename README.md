@@ -82,7 +82,11 @@ fighting-game/
 - Gradle 8.7 (or the included Gradle wrapper)
 
 ### 1. Run on Desktop
-To launch the game on desktop (with keyboard, mouse, and virtual controls):
+To launch the game on desktop (with automatic JDK 21 and Wayland/X11 display detection):
+```bash
+./run_desktop.sh
+```
+Or via Gradle:
 ```bash
 ./gradlew :desktop:run
 ```
